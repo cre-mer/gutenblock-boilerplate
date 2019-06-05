@@ -20,6 +20,10 @@ npm install
 npm run dev/hot/production/watch
 ```
 
+The follow the following steps:
+1. Search and replace ```boilerplate``` whith your ```blockname```
+2. Search and replace ```Boilerplate``` whith your ```Blockname```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
